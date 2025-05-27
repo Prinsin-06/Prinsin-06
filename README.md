@@ -7,11 +7,11 @@
 - Currently working on ML, DL
   
 - Skills:
-    NoSQL - Cassandra, MongoDB, DynamoDB, Neo4j (Level: Intermediate)
-    Statistics and Analysis: Data Analysis, Distributions and Extraction, Visualisation (Seaborn, matplotlib.pyplot)
-    Probability: Probability Distributions, Binomial Distribution, Bayes' Theoram, Z - Score, P-Score
-    Testing: Sampling Techniques, Hypothesis Testing, T-Tests, A/B Testing, Confidence Intervals(CI), Types of Error
-    Concepts of SQL and Python
+-    NoSQL - Cassandra, MongoDB, DynamoDB, Neo4j (Level: Intermediate)
+-    Statistics and Analysis: Data Analysis, Distributions and Extraction, Visualisation (Seaborn, matplotlib.pyplot)
+-    Probability: Probability Distributions, Binomial Distribution, Bayes' Theoram, Z - Score, P-Score
+-    Testing: Sampling Techniques, Hypothesis Testing, T-Tests, A/B Testing, Confidence Intervals(CI), Types of Error
+-    Concepts of SQL and Python
 
 <!---
 Prinsin-06/Prinsin-06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
