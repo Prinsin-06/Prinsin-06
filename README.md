@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prinsin-06
 - 👀 I’m interested in learning and using my skills in Data Analytics.
-- 💞️ I’m looking to collaborate on projectes related to Data ETL (Extract, Transfer, Load)
+- 💞️ I’m looking to collaborate on projects related to Data ETL (Extract, Transfer, Load)
 - 📫 How to reach me: email: Prinsin2002@gmail.com
 - ⚡ Fun fact: I see, research, learn, and conquer.
 
