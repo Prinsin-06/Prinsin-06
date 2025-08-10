@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Prinsin-06
-- 👀 I’m interested in learning and using my skills in Data Analytics.
-- 💞️ I’m looking to collaborate on projects related to Data ETL (Extract, Transfer, Load)
+- 👀 I’m interested in learning and using my skills in Machine Learning.
+- 💞️ I’m looking to collaborate on projects related to ML Models
 - 📫 How to reach me: email: Prinsin2002@gmail.com
-- ⚡ Fun fact: I see, research, learn, and conquer.
+- ⚡ Speciality: I see, Research, Analyse, Learn, and Conquer.
 
 - Currently working on ML, DL
   
